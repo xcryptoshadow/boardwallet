@@ -1,0 +1,8 @@
+# next.js
+/.next/
+/out/
+/mongoDB/models/
+/lib/
+/components/
+/components/layout/
+/pages/

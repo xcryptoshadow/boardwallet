@@ -1,0 +1,37 @@
+{
+  "navbar": {
+    "claim": "Claim",
+    "inheritance": "Inheritance",
+    "vaults": "Vaults",
+    "services": "Services",
+    "nft": "NFT"
+  },
+  "create-plan": {
+    "welcome": "Bienvenido a ty cryptolegacy!",
+    "title-create": "Create testament",
+    "title-edit": "Edit testament",
+    "max-days-hint": "Select the days without activity in the wallet to activate protocol",
+    "days": "{{days}} days",
+    "beneficiary-hint": "Establezca la dirección de la wallet del beneficiario",
+    "wallet-address": "Wallet address",
+    "approve-allowance": "Approve allowance",
+    "create-testament": "Approve your will",
+    "edit-testament": "Edit your will",
+    "token-hint": "Establezca la dirección del token",
+    "token-address": "Token address"
+  },
+  "connect-wallet": {
+    "connect": "Connect wallet"
+  },
+  "testament": {
+    "title": "Testament",
+    "status": "Status",
+    "inheritor": "Inheritor",
+    "token": "Token",
+    "life-proof": "Last proof of life",
+    "days": "{{days}} days",
+    "update-proof": "Update proof of life",
+    "revoke": "Revoke",
+    "claim": "Claim"
+  }
+}

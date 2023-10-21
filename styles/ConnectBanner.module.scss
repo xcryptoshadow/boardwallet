@@ -1,0 +1,21 @@
+.connectbanner {
+  margin-top: 20px;
+
+  &__title {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+
+    &--blue {
+      color: #5f4dff;
+    }
+  }
+
+  &__subtitle {
+    color: #475569;
+    font-weight: 400;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    margin-top: 20px;
+  }
+}

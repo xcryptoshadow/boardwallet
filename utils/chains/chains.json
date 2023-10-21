@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Moonbase",
+    "chainId": 1287,
+    "hexa": "0x507",
+    "rpcs": ["https://rpc.api.moonbase.moonbeam.network"],
+    "explorers": ["https://moonbase.moonscan.io/"],
+    "isSupported": true,
+    "isTesnet": true,
+    "nativeCurrency": {
+      "name": "DEV",
+      "symbol": "DEV",
+      "decimals": 18
+    }
+  }
+]
